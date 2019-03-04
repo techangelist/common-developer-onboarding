@@ -35,6 +35,16 @@ Based on 12 factor app princeiple, we have come up the following section about d
 
 ## Local machine environment
 
+In order to ensure Dev/Prod parity principle, the following developer machine requirement must be fulfilled:
+
+* All developers must use Macbook
+* Docker must be installed
+* Docker compose must be installed
+* kubectl must be installed
+* Hashi Vault client must be installed
+
+Because technology keeps on changing, specific version of each tools should be defined within team so every team members will have same version in their local machine.
+
 ## DevSecOps practice
 
 ### CI
