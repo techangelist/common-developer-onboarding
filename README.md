@@ -34,6 +34,31 @@ Based on 12 factor app princeiple, we have come up the following section about d
 # Developer Onboarding guidelines
 
 ## Local machine environment
+
 ## DevSecOps practice
-## Project kick-start 
+
+### CI
+
+#### Docker
+
+#### Docker Compose
+
+### Docker registry
+
+### CD
+
+#### Kubernetes
+
+#### Automatic QA and Security Test
+
+#### SIT, UAT
+
+#### Blue/Green Deployment
+
+## Project kick-start basic stack
+
+### SPA Development
+
+### Mobile App Development
+
 ### API Development
