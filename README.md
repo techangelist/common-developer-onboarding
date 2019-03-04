@@ -43,6 +43,8 @@ In order to ensure Dev/Prod parity principle, the following developer machine re
 * kubectl must be installed
 * Hashi Vault client must be installed
 
+Because technology keeps on changing, specific version of each tools should be defined within team so every team members will have same version in their local machine.
+
 ## DevSecOps practice
 
 ### CI
